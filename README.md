@@ -1,2 +1,2 @@
 # CodeTest
-Just a C Language
+Programming Language
